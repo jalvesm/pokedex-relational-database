@@ -1,2 +1,2 @@
-# pokedex-relational-database
-This repo contains DDL and DML scripts of Pokedex database. They were proposed as project for learning MySQL in Database subject during 2nd semester.
+# Pokedex relational database project
+The project in question involves a series of SQL (Structured Query Language) queries that manipulate data related to Pokémon. The queries use Data Definition Language (DDL) and Data Manipulation Language (DML) commands to extract specific information, such as averages, maximums, minimums, and counts, about Pokémon in various categories and species. Additionally, "JOIN" commands are used to combine information from different tables, and "WHERE," "GROUP BY," "HAVING," "ORDER BY," and "CASE" clauses are applied to filter, group, and sort the data as needed. The project provides detailed analyses of Pokémon, exploring their features such as attacks, weights, defenses, and categories.
